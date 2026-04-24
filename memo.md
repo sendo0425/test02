@@ -6,3 +6,4 @@
 4. GitHubでファイルの作成
 5. GitHubでファイルの修正
 6. GitHubでファイルの更新
+7. GitHubでファイルの反映
