@@ -7,3 +7,4 @@
 5. GitHubでファイルの修正
 6. GitHubでファイルの更新
 7. GitHubでファイルの反映
+8. vscodeで修正
