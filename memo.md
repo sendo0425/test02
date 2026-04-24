@@ -5,3 +5,4 @@
 3. GitHubでリポジトリ作成
 4. GitHubでファイルの作成
 5. GitHubでファイルの修正
+6. GitHubでファイルの更新
