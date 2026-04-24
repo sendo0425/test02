@@ -4,3 +4,4 @@
 2. GitHubでアカウント作成
 3. GitHubでリポジトリ作成
 4. GitHubでファイルの作成
+5. GitHubでファイルの修正
